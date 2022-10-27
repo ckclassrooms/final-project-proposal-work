@@ -2,7 +2,7 @@
 
 ## What does your application do?
 
-- Writing notes during lectures is a real challenge! Make studying easier by uploading your notes and by having access to other student's notes in your class! Note Sharing App connects you to students in your class and from other Univesities across the world.
+- Writing notes during lectures is a real challenge! Make studying easier by uploading your notes and by having access to other student's notes in your class! Note Sharing App connects you to students in your class and from other Univesities.
 
 ## What makes it different than a CRUD app? I.e., what functionality does it provide that is not just a user interface layer on top of a database of user information, and the ability to view / add to / change that information?
 
