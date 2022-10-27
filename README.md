@@ -15,8 +15,9 @@
 - Cannot inject malicious code into db.
 
 
-![](https://i.imgur.com/yJcQuWU.png)
+<!-- ![](https://i.imgur.com/yJcQuWU.png)
 
 ![](https://i.imgur.com/2iLlxEi.png)
 
 ![](https://i.imgur.com/cdygEIC.png)
+ -->
