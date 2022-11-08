@@ -6,7 +6,9 @@
 ## Include a diagram (in text or drawn or however you please) of your tech stack:
 
    Front end: React
+   
    Back end: Supabase
+   
    API: Algolia (search functionality), Cloud Vision API (picture to text)
 
 
