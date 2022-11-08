@@ -2,6 +2,7 @@
 
 ## Set up CI to host the built version of your team GH repository. 
  - https://shareclassnotes.netlify.app
+ - https://github.com/rosemata/484_p1
 
 ## Include a diagram (in text or drawn or however you please) of your tech stack:
 
