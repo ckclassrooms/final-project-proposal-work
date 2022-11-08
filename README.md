@@ -9,18 +9,6 @@
    Back end: Supabase
    API: Algolia (search functionality), Cloud Vision API (picture to text)
 
-<img width="814" alt="Screen Shot 2022-11-07 at 11 26 10 PM" src="https://user-images.githubusercontent.com/93716153/200482418-82b59c7d-7eac-4a3c-9832-6964f28f76ab.png">
-
-<img width="815" alt="Screen Shot 2022-11-07 at 11 26 24 PM" src="https://user-images.githubusercontent.com/93716153/200482435-06977950-159c-4bd5-a0f5-2c80963c7113.png">
-
-<img width="809" alt="Screen Shot 2022-11-07 at 11 26 35 PM" src="https://user-images.githubusercontent.com/93716153/200482444-57e0bf32-b5a6-4632-ab52-c08ecd020e5d.png">
-
-<img width="817" alt="Screen Shot 2022-11-07 at 11 26 46 PM" src="https://user-images.githubusercontent.com/93716153/200482457-57c55243-2720-4dcc-a60c-bf4c5538532b.png">
-
-<img width="814" alt="Screen Shot 2022-11-07 at 11 26 58 PM" src="https://user-images.githubusercontent.com/93716153/200482465-3a731b07-10ee-445a-8912-ea037cd4c858.png">
-
-<img width="806" alt="Screen Shot 2022-11-07 at 11 27 09 PM" src="https://user-images.githubusercontent.com/93716153/200482473-17ca7880-8b69-4608-9ae2-ef7e992ca0ba.png">
-
 ## What does your application do?
 - [ ] Include a short textual description of what MVP (minimum viable product) you will be aiming to complete by the end of week 13.
   
@@ -37,6 +25,18 @@
 - Unregistered users cannot see/upload documents.
 - Cannot inject malicious code into db.
 
+
+<img width="814" alt="Screen Shot 2022-11-07 at 11 26 10 PM" src="https://user-images.githubusercontent.com/93716153/200482418-82b59c7d-7eac-4a3c-9832-6964f28f76ab.png">
+
+<img width="815" alt="Screen Shot 2022-11-07 at 11 26 24 PM" src="https://user-images.githubusercontent.com/93716153/200482435-06977950-159c-4bd5-a0f5-2c80963c7113.png">
+
+<img width="809" alt="Screen Shot 2022-11-07 at 11 26 35 PM" src="https://user-images.githubusercontent.com/93716153/200482444-57e0bf32-b5a6-4632-ab52-c08ecd020e5d.png">
+
+<img width="817" alt="Screen Shot 2022-11-07 at 11 26 46 PM" src="https://user-images.githubusercontent.com/93716153/200482457-57c55243-2720-4dcc-a60c-bf4c5538532b.png">
+
+<img width="814" alt="Screen Shot 2022-11-07 at 11 26 58 PM" src="https://user-images.githubusercontent.com/93716153/200482465-3a731b07-10ee-445a-8912-ea037cd4c858.png">
+
+<img width="806" alt="Screen Shot 2022-11-07 at 11 27 09 PM" src="https://user-images.githubusercontent.com/93716153/200482473-17ca7880-8b69-4608-9ae2-ef7e992ca0ba.png">
 
 <!-- ![](https://i.imgur.com/yJcQuWU.png)
 
