@@ -30,7 +30,7 @@
 <img width="806" alt="Screen Shot 2022-11-07 at 11 27 09 PM" src="https://user-images.githubusercontent.com/93716153/200482473-17ca7880-8b69-4608-9ae2-ef7e992ca0ba.png"> -->
 
 ## Include a short textual description of what MVP (minimum viable product) you will be aiming to complete by the end of week 13.
-  By week 13. User will be able to input their text notes. Add it in our database
+ - By week 13. User will be able to input their text notes and add it in our database
 
 ## What does your application do?  
 
