@@ -1,8 +1,8 @@
 # AppName(Tentative)
 
 ## Set up CI to host the built version of your team GH repository. 
- - Include a link to your deployed app in README.md so that I can take a look
- - [ ] https://shareclassnotes.netlify.app
+ - [ ] Include a link to your deployed app in README.md so that I can take a look
+ https://shareclassnotes.netlify.app
 
 ## Include a diagram (in text or drawn or however you please) of your tech stack:
  - What services you will use to host (front end, back end, database)
