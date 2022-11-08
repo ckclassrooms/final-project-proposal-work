@@ -5,11 +5,11 @@
 
 ## Include a diagram (in text or drawn or however you please) of your tech stack:
 
-   Front end: React
+ - Front end: React
    
-   Back end: Supabase
+ - Back end: Supabase
    
-   API: Algolia (search functionality), Cloud Vision API (picture to text)
+ - API: Algolia (search functionality), Cloud Vision API (picture to text)
 
 
 <!-- <img width="814" alt="Screen Shot 2022-11-07 at 11 26 10 PM" src="https://user-images.githubusercontent.com/93716153/200482418-82b59c7d-7eac-4a3c-9832-6964f28f76ab.png">
