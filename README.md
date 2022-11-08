@@ -1,5 +1,14 @@
 # AppName(Tentative)
 
+## Set up CI to host the built version of your team GH repository. 
+ - Include a link to your deployed app in README.md so that I can take a look
+ - [ ] https://shareclassnotes.netlify.app
+
+## Include a diagram (in text or drawn or however you please) of your tech stack:
+ - What services you will use to host (front end, back end, database)
+ - What technologies you will use on the front end and back end
+ - What APIs you will call out to
+
 ## What does your application do?
 
 - Writing notes during lectures is a real challenge! Make studying easier by uploading your notes and by having access to other student's notes in your class! Note Sharing App connects you to students in your class and from other Univesities.
