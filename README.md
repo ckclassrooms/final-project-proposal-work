@@ -31,6 +31,7 @@
 
 ## Include a short textual description of what MVP (minimum viable product) you will be aiming to complete by the end of week 13.
  - By week 13. User will be able to input their text notes and add it in our database
+ - When user search a keyword. Notes with that keywords will come up as results
 
 ## What does your application do?  
 
