@@ -1,4 +1,18 @@
-# AppName(Tentative)
+# Share Class Notes 
+
+# F.2
+
+## Include a description of what your app currently does
+- allow users to search for key word
+- allow users to sign in and upload their own notes
+
+## Include a link to the deployment of your app in README.md - this can be your main app URL, or a branch deploy.
+- https://github.com/rosemata/484_p1/tree/ming-branch
+- https://shareclassnotes.netlify.app
+
+## Optional but helpful - include a screencast that shows your current functionality in action. I should be able to run the app myself when I visit it though.
+
+# F.1
 
 ## Set up CI to host the built version of your team GH repository. 
  - https://shareclassnotes.netlify.app
