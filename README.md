@@ -4,13 +4,19 @@
 
 ## Include a description of what your app currently does
 - allow users to search for key word
-- allow users to sign in and upload their own notes
+- allow users to sign in and upload their own notes to be added in our database
 
 ## Include a link to the deployment of your app in README.md - this can be your main app URL, or a branch deploy.
 - https://github.com/rosemata/484_p1/tree/ming-branch
 - https://shareclassnotes.netlify.app
 
 ## Optional but helpful - include a screencast that shows your current functionality in action. I should be able to run the app myself when I visit it though.
+
+
+
+https://user-images.githubusercontent.com/93716153/202834044-f68cbab7-dee9-4576-a42a-af06c1fec7a0.mov
+
+
 
 # F.1
 
