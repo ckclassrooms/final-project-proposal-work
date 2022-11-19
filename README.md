@@ -4,6 +4,7 @@
 
 ## Include a description of what your app currently does
 - allow users to search for key word
+  - type "." to show all notes, or specific keyword
 - allow users to sign in and upload their own notes to be added in our database
 
 ## Include a link to the deployment of your app in README.md - this can be your main app URL, or a branch deploy.
