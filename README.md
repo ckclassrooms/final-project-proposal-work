@@ -10,6 +10,7 @@ https://user-images.githubusercontent.com/93716153/205479949-187f4adc-7a5c-4453-
  - [ ] upload notes
  - [ ] update/delete existing notes
  - [ ] view notes without signing in
+ - [ ] upload image .jpg, .jpeg, .png, and will be converted to text
  - [ ] search key word from notes
  - [ ] notes are clickable
  - [ ] user can see list of note they uploaded
