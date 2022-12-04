@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/93716153/205479949-187f4adc-7a5c-4453-
  - [ ] update/delete existing notes
  - [ ] view notes without signing in
  - [ ] search key word from notes
+ - [ ] notes are clickable
  - [ ] user can see list of note they uploaded
  - [ ] date of when user upload notes
 
