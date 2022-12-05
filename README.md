@@ -5,6 +5,7 @@
 ## Screencast: Updated December 4
 
 Link: https://shareclassnotes.netlify.app
+
 GitHub: https://github.com/rosemata/ShareClassNotes
 
 ## Functionality
