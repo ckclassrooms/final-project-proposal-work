@@ -2,8 +2,6 @@
 
 # F.3
 
-## Screencast: Updated December 4
-
 Link: https://shareclassnotes.netlify.app
 
 GitHub: https://github.com/rosemata/ShareClassNotes
@@ -18,6 +16,9 @@ GitHub: https://github.com/rosemata/ShareClassNotes
  - [ ] Users can see list of notes they uploaded
  - [ ] Users can see date of when notes are uploaded
  - [ ] Unregistered users cannot see/upload documents.
+
+
+## Screencast: Updated December 4
 
 https://user-images.githubusercontent.com/93716153/205525276-3c5da7fc-fb35-4ba1-9cdd-3f3f26231c03.mov
 
