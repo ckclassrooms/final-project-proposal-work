@@ -2,9 +2,7 @@
 
 ## Screencast: Updated December 4
 
-https://shareclassnotes.netlify.app
-
-https://user-images.githubusercontent.com/93716153/205479949-187f4adc-7a5c-4453-ba3c-3e99aaea85d5.mov
+Link: https://shareclassnotes.netlify.app
 
 ## Current Functionality
  - [ ] upload notes
@@ -15,6 +13,8 @@ https://user-images.githubusercontent.com/93716153/205479949-187f4adc-7a5c-4453-
  - [ ] notes are clickable
  - [ ] user can see list of note they uploaded
  - [ ] date of when user upload notes
+
+https://user-images.githubusercontent.com/93716153/205525276-3c5da7fc-fb35-4ba1-9cdd-3f3f26231c03.mov
 
 # F.2
 
