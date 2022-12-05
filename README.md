@@ -5,7 +5,7 @@
 Link: https://shareclassnotes.netlify.app
 
 ## Functionality
- - [ ] upload notes by pasting to textfield
+ - [ ] add notes by typing to textfield
  - [ ] upload by uploading image .jpg, .jpeg, .png, and will be converted to text
  - [ ] update/delete existing notes
  - [ ] view all notes without signing in
