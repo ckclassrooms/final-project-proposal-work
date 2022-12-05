@@ -7,14 +7,15 @@
 Link: https://shareclassnotes.netlify.app
 
 ## Functionality
- - [ ] add notes by typing to textfield
- - [ ] upload image (.jpg, .jpeg, .png, etc.) and will be converted to text
- - [ ] edit/delete existing notes
- - [ ] view all notes without signing in
- - [ ] search key word from notes uploaded
- - [ ] notes are clickable to see full text
- - [ ] user can see list of notes they uploaded
- - [ ] user can see date of when notes are uploaded
+ - [ ] Add notes by typing to textfield
+ - [ ] Allows users to upload image (.jpg, .jpeg, .png, etc.) and will be converted to text
+ - [ ] Edit/delete existing notes
+ - [ ] View all notes without signing in
+ - [ ] Search keyword from notes uploaded
+ - [ ] Notes are clickable to see full text
+ - [ ] Users can see list of notes they uploaded
+ - [ ] Users can see date of when notes are uploaded
+ - [ ] Unregistered users cannot see/upload documents.
 
 https://user-images.githubusercontent.com/93716153/205525276-3c5da7fc-fb35-4ba1-9cdd-3f3f26231c03.mov
 
@@ -87,11 +88,3 @@ https://user-images.githubusercontent.com/93716153/202834044-f68cbab7-dee9-4576-
 - User has the option to anonymously upload notes.
 - Unregistered users cannot see/upload documents.
 - Cannot inject malicious code into db.
-
-
-<!-- ![](https://i.imgur.com/yJcQuWU.png)
-
-![](https://i.imgur.com/2iLlxEi.png)
-
-![](https://i.imgur.com/cdygEIC.png)
- -->
