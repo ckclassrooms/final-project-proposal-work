@@ -6,13 +6,13 @@ Link: https://shareclassnotes.netlify.app
 
 ## Functionality
  - [ ] add notes by typing to textfield
- - [ ] upload by uploading image .jpg, .jpeg, .png, and will be converted to text
- - [ ] update/delete existing notes
+ - [ ] upload image (.jpg, .jpeg, .png, etc.) and will be converted to text
+ - [ ] edit/delete existing notes
  - [ ] view all notes without signing in
  - [ ] search key word from notes uploaded
- - [ ] notes are clickable
+ - [ ] notes are clickable to see full text
  - [ ] user can see list of notes they uploaded
- - [ ] user can see date of when user upload notes
+ - [ ] user can see date of when notes are uploaded
 
 https://user-images.githubusercontent.com/93716153/205525276-3c5da7fc-fb35-4ba1-9cdd-3f3f26231c03.mov
 
